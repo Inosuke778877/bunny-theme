@@ -1,9 +1,9 @@
 {
-  "name": "Kotikovtheme",
-  "description": "Based on Purpdark V3, by @vve1",
+  "name": "inosuke's theme",
+  "description": "Based on purple theme",
   "authors": [
     {
-      "name": "@kotru21"
+      "name": "@inosuke_on_drugxxx"
     }
   ],
   "semanticColors": {
@@ -69,7 +69,7 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrG0Ax9FuCgkxc9ehjj1zOCGVFPOr0N3-OINYN49Ms1aonikxgZ4rihbk&s=10",
+    "url": "https://giphy.com/gifs/animatr-anime-gif-aesthetic-future-3gTmgzy7wYJfyaGRHQ",
     "alpha": 0.9,
     "color": "#0A0A0A"
   }
